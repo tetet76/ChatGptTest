@@ -1,4 +1,5 @@
 using ChatGptApi;
+using Microsoft.OpenApi.Models;
 
 Console.Write("What is your name? ");
 var name = Console.ReadLine();
